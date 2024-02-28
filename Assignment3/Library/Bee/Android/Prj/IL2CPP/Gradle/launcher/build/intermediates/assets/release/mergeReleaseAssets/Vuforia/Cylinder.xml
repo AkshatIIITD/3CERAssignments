@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <CylinderTarget name="decoration" sideLength="0.199000"/>
+  </Tracking>
+</QCARConfig>
